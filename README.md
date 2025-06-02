@@ -1,1 +1,4 @@
 # Slot-Machine
+This project is a simple yet engaging terminal-based slot machine game built using Python. It simulates a traditional slot machine experience, where the player begins with a set balance, places bets, and spins virtual reels to try their luck. The game randomly generates symbols for each spin and checks for winning combinations. If the symbols align, the player is rewarded based on their bet. It keeps track of the user’s balance across multiple rounds and continues until the player either quits the game or runs out of money.
+
+To get started, you’ll need Python 3 installed on your system. After cloning the repository using git clone https://github.com/SamriddhiChoukade/Slot-Machine, navigate to the folder and simply run the game by executing python slot_machine.py in the terminal. The interface is fully command-line based, making it lightweight and easy to run on any system without the need for external libraries or complex setup.
